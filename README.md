@@ -3,7 +3,6 @@
 A graphical user interface (GUI) tool built with Python and Tkinter to create, visualize, and generate pixel art patterns based on user-defined colors and distributions.
 
 ![Screenshot of the Pixel Pattern Generator UI](overview.png)
-*(Please replace this line above with an actual screenshot named overview.png in the repository root)*
 
 ## Features
 
@@ -62,9 +61,8 @@ A graphical user interface (GUI) tool built with Python and Tkinter to create, v
 
 4.  **Run the application:**
     ```bash
-    python pattern_to_image.py
+    python pixel_generator_app.py
     ```
-    *(Note: The script is currently named `pattern_to_image.py`. You might want to rename it to something like `pixel_generator_app.py`)*
 
 ## Usage Tips
 
